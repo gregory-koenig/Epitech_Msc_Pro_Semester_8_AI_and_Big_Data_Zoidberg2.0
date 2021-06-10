@@ -1,0 +1,2 @@
+# Epitech_Msc_Pro_Semester_8_AI_and_Big_Data_Zoidberg2.0
+Machine learning to help doctors detecting pneumonia
